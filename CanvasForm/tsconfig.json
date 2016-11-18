@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es6",
+        "outFile": "Output/Graphics.js",
+        "noImplicitAny": false,
+        "sourceMap": false,
+        "watch": true,
+        "declaration": true
+    },
+    "exclude": [ "Output/*"]
+}
